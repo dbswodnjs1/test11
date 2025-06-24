@@ -7,7 +7,7 @@
   }
   ```
 
-#java 코드
+# java 코드
 ```java
 
   int num1=10'
